@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.89.39.167:8081/repository/mwa-app-release/</url>
+	      <url>http://100.26.206.21:8081/repository/bank-apps-release/</url>
 	    </repository>
 	 
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.89.39.167:8081/repository/mwa-app-snapshot/</url>
+	      <url>http://100.26.206.21:8081/repository/bank-apps-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
